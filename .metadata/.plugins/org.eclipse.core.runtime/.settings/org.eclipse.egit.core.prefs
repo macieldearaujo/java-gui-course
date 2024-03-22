@@ -1,3 +1,4 @@
-GitRepositoriesView.GitDirectories=
-GitRepositoriesView.GitDirectories.relative=
+GitRepositoriesView.GitDirectories=C\:\\temp\\gui-java-course\\.git;
+GitRepositoriesView.GitDirectories.relative=.git;
+RepositorySearchDialogSearchPath=C\:\\temp\\gui-java-course
 eclipse.preferences.version=1

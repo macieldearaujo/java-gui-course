@@ -15,7 +15,5 @@ public class MyFrame extends JFrame {
 		this.setTitle("GUI test");
 		this.setResizable(false);
 		this.getContentPane().setBackground(new Color(0, 0, 0));
-		ImageIcon image = new ImageIcon("logo.png");
-		this.setIconImage(image.getImage());
 	}
 }
